@@ -1,0 +1,130 @@
+{
+  "hero": {
+    "travelers": 80409,
+    "treasures": 882,
+    "cities": 1492
+  },
+  "mostPicked": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Wood Cottage",
+      "type": "Apartment",
+      "imageUrl": "/images/Rectangle 5.jpg",
+      "country": "California",
+      "city": "Los Angeles",
+      "price": "50",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Gray Villa",
+      "type": "Hotel",
+      "imageUrl": "/images/Rectangle 6.jpg",
+      "country": "United Kingdom",
+      "city": "London",
+      "price": "300",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Coast Hotel",
+      "type": "Rumah",
+      "imageUrl": "/images/Rectangle 8.jpg",
+      "country": "Florida",
+      "city": "Miami",
+      "price": "60",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "High Tower",
+      "type": "Apartment",
+      "imageUrl": "/images/Rectangle 7.jpg",
+      "country": "Italy",
+      "city": "Venice",
+      "price": "50",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Beach Hotel",
+      "type": "Apartment",
+      "imageUrl": "/images/Rectangle 9.jpg",
+      "country": "Hawaii",
+      "city": "Honolulu",
+      "price": "30",
+      "unit": "night"
+    }
+  ],
+  "categories": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Villas",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Gray Villa",
+          "imageUrl": "/images/Rectangle 6.jpg",
+          "country": "United Kingdom",
+          "city": "London",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Coast Hotel",
+          "imageUrl": "/images/Rectangle 8.jpg",
+          "country": "Florida",
+          "city": "Miami",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "High Tower",
+          "imageUrl": "/images/Rectangle 7.jpg",
+          "country": "Italy",
+          "city": "Venice",
+          "isPopular": true
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Hotels",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Beach Hotel",
+          "imageUrl": "/images/Rectangle 9.jpg",
+          "country": "Hawaii",
+          "city": "Honolulu",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Coast Hotel",
+          "imageUrl": "/images/Rectangle 8.jpg",
+          "country": "Florida",
+          "city": "Miami",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "High Tower",
+          "imageUrl": "/images/Rectangle 7.jpg",
+          "country": "Italy",
+          "city": "Venice",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/Review.jpg",
+    "name": "Happy Family",
+    "rate": 4.55,
+    "content": "Had a blast time with my husband, I definitely will come back again...",
+    "familyName": "Shania Natalie",
+    "familyOccupation": "Designer"
+  }
+}
