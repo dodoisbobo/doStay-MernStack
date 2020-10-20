@@ -20,8 +20,7 @@ export default function Categories({ data }) {
                   <Fade bottom delay={200 * index2}>
                     <div
                       className="item column-4 row-1"
-                      key={`category-${index1}item-${index2}`}
-                    >
+                      key={`category-${index1} item-${index2}`}>
                       <div
                         className="card"
                         style={{ height: 235, marginBottom: -7 }}
